@@ -1,3 +1,3 @@
 # Panther Interpreted
 
-Up to 1.5
+Up to 2.4
