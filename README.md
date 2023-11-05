@@ -1,3 +1,3 @@
 # Panther Interpreted
 
-Up to 2.4 - p42
+Up to 2.7 - p74
