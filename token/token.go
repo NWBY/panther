@@ -40,7 +40,7 @@ const (
 
 	// KEYWORDS
 	FUNCTION = "FUNCTION"
-	LET      = "LET"
+	VOLATILE = "VOLATILE"
 	TRUE     = "TRUE"
 	FALSE    = "FALSE"
 	IF       = "IF"
@@ -50,7 +50,7 @@ const (
 
 var keywords = map[string]TokenType{
 	"fn":     FUNCTION,
-	"let":    LET,
+	"vol":    VOLATILE,
 	"true":   TRUE,
 	"false":  FALSE,
 	"if":     IF,
